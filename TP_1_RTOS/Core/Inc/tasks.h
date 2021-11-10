@@ -9,6 +9,9 @@
 #define INC_TASKS_H_
 
 void vTask_Test_Sleep(void *pvParameters);
+void vTask_ToCall(void *pvParmaeters);
+void vTask_Synchronising(void *pvParameters);
+
 
 
 #endif /* INC_TASKS_H_ */
